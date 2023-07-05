@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TodySy<br>🌱 I’m currently learning NextJS<br>
+🔭 I’m currently working in Jio Platforms Limited<br>🌱 I’m currently learning NextJS<br>
 
 
 ## 🌐 Socials:
